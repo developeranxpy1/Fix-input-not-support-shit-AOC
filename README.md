@@ -4,6 +4,12 @@ well i got the right fix for you 'after weeks of screwing around'
 <br>
 <br>
 <br>
+
+
+![aocterminal](https://github.com/developeranxpy1/Fix-input-not-support-shit-AOC/assets/86851518/42b3c864-5b4f-477d-861d-fda63ee616a4)
+
+
+
 step 1 -> run "sudo apt install ddcutil"
 <br>
 step 2 -> change the "pwd" to your root password and "usr" to your root username
